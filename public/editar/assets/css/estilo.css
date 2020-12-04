@@ -1,0 +1,36 @@
+div{
+    margin: 10;
+}
+.flex-container{
+    display: flex;
+    font-family: 'Oswald', sans-serif;
+    background-color: lightgray;
+    align-content: space-between;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-between;
+   
+}
+
+footer{
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(211, 211, 211);
+}
+
+
+.cli-cadastrar .botaoCadastrar{
+
+    border-radius: 30px;
+    padding: 10px 20px;
+    margin-left: 10px
+
+    font-size: 1.3em;
+    
+}
+
+.botaoCadastrar {
+    background: #f50a31;
+    color: #fff;
+    text-decoration: none;
+}
+

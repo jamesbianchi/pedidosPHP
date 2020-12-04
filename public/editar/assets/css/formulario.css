@@ -1,0 +1,19 @@
+h1{
+    margin: 10;
+}
+input, label {
+    display: block;
+    margin-left: 10;
+    margin-bottom: 5;
+}
+
+.botaoenviar{
+    font-size: 1.3em;
+    margin-left: 10;
+    margin-top: 10;
+    border-radius: 30px;
+    padding: 10px 20px;
+    background: #f50a31;
+    color: #fff;
+    
+}

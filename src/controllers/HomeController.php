@@ -5,6 +5,10 @@ use \core\Controller;
 
 class HomeController extends Controller {
 
+    public function start() {
+        $this->render('start', ['nome' => 'Desenvolvido por James Bianchi']);
+    }
+
     public function index() {
         $this->render('home', ['nome' => 'Bonieky']);
     }

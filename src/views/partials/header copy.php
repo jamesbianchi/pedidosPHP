@@ -84,7 +84,7 @@
 <body>
     <header class="cabecalho">
         <div class="logo">
-            <a href="<?=$base;?>">
+            <a href="<?=$base?>">
                 <img src="assets/images/Logo.jpeg" alt="logo"/>
             </a>
         </div>
@@ -94,10 +94,10 @@
                     <a href="<?=$base?>/clientes">Clientes</a>
                 </li>
                 <li>
-                    <a href="<?=$base?>/produtos">Produtos</a>
+                    <a href="#produtos">Produtos</a>
                 </li>
                 <li>
-                    <a href="<?=$base?>/pedidos">Pedidos</a>
+                    <a href="#pedidos">Pedidos</a>
                 </li>
                 <li>
                     <a href="#contato">Contato</a>
